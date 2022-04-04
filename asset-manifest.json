@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kseniya8765.github.io/csb-z9d6wi/static/css/main.67043f59.chunk.css",
+    "main.js": "https://kseniya8765.github.io/csb-z9d6wi/static/js/main.a97a3299.chunk.js",
+    "main.js.map": "https://kseniya8765.github.io/csb-z9d6wi/static/js/main.a97a3299.chunk.js.map",
+    "runtime-main.js": "https://kseniya8765.github.io/csb-z9d6wi/static/js/runtime-main.1616a990.js",
+    "runtime-main.js.map": "https://kseniya8765.github.io/csb-z9d6wi/static/js/runtime-main.1616a990.js.map",
+    "static/js/2.d1b34804.chunk.js": "https://kseniya8765.github.io/csb-z9d6wi/static/js/2.d1b34804.chunk.js",
+    "static/js/2.d1b34804.chunk.js.map": "https://kseniya8765.github.io/csb-z9d6wi/static/js/2.d1b34804.chunk.js.map",
+    "index.html": "https://kseniya8765.github.io/csb-z9d6wi/index.html",
+    "static/css/main.67043f59.chunk.css.map": "https://kseniya8765.github.io/csb-z9d6wi/static/css/main.67043f59.chunk.css.map",
+    "static/js/2.d1b34804.chunk.js.LICENSE.txt": "https://kseniya8765.github.io/csb-z9d6wi/static/js/2.d1b34804.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1616a990.js",
+    "static/js/2.d1b34804.chunk.js",
+    "static/css/main.67043f59.chunk.css",
+    "static/js/main.a97a3299.chunk.js"
+  ]
+}
